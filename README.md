@@ -12,7 +12,7 @@ npm install
 2. Input your token in config.json
 ```
 {
-	"token": "token-here"
+	"token": "put-token-here"
 }
 ```
 3. Run scrape.js
