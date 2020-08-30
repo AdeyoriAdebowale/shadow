@@ -1,0 +1,24 @@
+{
+  "name": "shadow",
+  "version": "1.0.0",
+  "description": "Scrapes invites of discordservers.me and automatically joins.",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-invite-scraper",
+    "discorservers.me",
+    "discord-auto-joiner",
+    "autojoiner"
+  ],
+  "author": "AdamB#1337 and Benji#1337",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^11.6.3",
+    "got": "^11.5.2",
+    "puppeteer": "^5.2.1"
+  }
+}
